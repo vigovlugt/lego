@@ -9,6 +9,9 @@
   "bin": {
     "lego": "bin/lego"
   },
+  "engines": {
+    "node": ">= 8"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/astronomersiva/lego.git"
